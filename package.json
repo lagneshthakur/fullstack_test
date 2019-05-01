@@ -1,0 +1,11 @@
+{
+  "name": "ormae",
+  "version": "1.0.0",
+  "description": "ORMAE Full Stack Developer Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lagnesh Thakur",
+  "license": "ISC"
+}
