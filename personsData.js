@@ -1,0 +1,24 @@
+let personsData = {
+    names: [
+        {
+        "firstName": "Sayan",
+        "lastName": "Bhattacharya"
+        },
+        {
+        "firstName": "Amit",
+        "lastName": "Garg"
+        },
+        {
+        "firstName": "Niladri",
+        "lastName": "Das"
+        },
+        {
+        "firstName": "Abhishek",
+        "lastName": "Kumar"
+        },
+        {
+        "firstName": "Ajay",
+        "lastName": "GK"
+        }]
+    }
+module.exports =  personsData;
